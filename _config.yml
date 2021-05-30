@@ -1,0 +1,19 @@
+title: Qia Audio Player
+tagline: An audio player for many formats
+email: johann.huang.de@gmail.com
+description: >-
+  Qia Audio Player is an audio which supports audio files in many formats.
+baseurl: "/qia-audio-player"
+url: ""
+author: "Johann Huang"
+twitter:
+  username: johannhuang_com
+  card: summary
+
+theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+ga_tracking: UA-198138610-2
